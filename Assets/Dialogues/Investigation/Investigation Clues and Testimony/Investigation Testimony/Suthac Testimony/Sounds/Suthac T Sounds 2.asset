@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44a64bceacac0ac4d8cd34f46f777598, type: 3}
+  m_Name: Suthac T Sounds 2
+  m_EditorClassIdentifier: 
+  characterName: Suthac
+  characterImages:
+  - {fileID: 21300000, guid: 50a91fcd09a13404caedf4cc4d8d18a0, type: 3}
+  characterTalkSound: {fileID: 8300000, guid: d46351de413fc1b4fa2ed3068da7d7ae, type: 3}
+  leftSideCharacterImage: 0
+  rightSideCharacterImage: 1
+  sentences:
+  - "\u201CHmm\u2026 well it\u2019s funny you should ask that\u2026\u201D"
+  - "\u201CI\u2019ve been ruminating about it, and that muttering\u2026 it sounded
+    awfully similar to someone casting a spell.\u201D"

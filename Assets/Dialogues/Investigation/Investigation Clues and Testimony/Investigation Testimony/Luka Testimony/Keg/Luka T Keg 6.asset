@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44a64bceacac0ac4d8cd34f46f777598, type: 3}
+  m_Name: Luka T Keg 6
+  m_EditorClassIdentifier: 
+  characterName: Luka
+  characterImages:
+  - {fileID: 21300000, guid: f42b0233ed7760a44b61ea14cd18bb40, type: 3}
+  characterTalkSound: {fileID: 8300000, guid: 268023d785058ca44988dc92975dacd9, type: 3}
+  leftSideCharacterImage: 0
+  rightSideCharacterImage: 1
+  sentences:
+  - "\u201CGods be damned\u2026\u201D"
+  - "\u201CThat barrel was not for Niberboog\u2019s personal use.\u201D"
+  - "\u201CA few years ago\u2026 myself and another individual were afflicted with
+    the curse of vampirism.\u201D\r\n"
+  - "\u201CIt was a harrowing process\u2026 and the only person we could confide
+    in was poor Niberboog\u2026 \u201D"
+  - "\u201CThrough legal means, he procured human blood so that we could indulge
+    in blood without needing to harm a living person.\u201D"
+  - "\u201CI tell you this, for I do not wish Niberboog\u2019s name to be tarnished
+    after death: he had nothing to do with any blood magic or other unsavoury activities.\u201D"

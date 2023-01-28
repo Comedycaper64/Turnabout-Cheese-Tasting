@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6fd3ac372c8854a8c9d4b1296f9953, type: 3}
+  m_Name: Irina T Q1 Convo
+  m_EditorClassIdentifier: 
+  conversationNodes:
+  - {fileID: 11400000, guid: 9a711532ec0a4d348b49c3bc6880b81c, type: 2}
+  - {fileID: 11400000, guid: b1872f08e7763d04ba76c152c50815a2, type: 2}
+  - {fileID: 11400000, guid: fc5412bb46afcab448f5eb61bf428463, type: 2}
+  - {fileID: 11400000, guid: c3b1d383ad31da247ab920c3c9ca3acd, type: 2}
+  - {fileID: 11400000, guid: c9a181db12ebaa045ab97ec3f223df12, type: 2}
+  - {fileID: 11400000, guid: 4f01bd9b10d8b2749a86929092a746ca, type: 2}
+  - {fileID: 11400000, guid: 13c230fa04f80f14596b581945935d1d, type: 2}
+  - {fileID: 11400000, guid: b859c69d84d24f14295373588883a541, type: 2}
+  - {fileID: 11400000, guid: f36747a8f746f494cb152dbd02f26e5e, type: 2}
+  - {fileID: 11400000, guid: d9318a2f906847843b841c32d0f1aac8, type: 2}
+  - {fileID: 11400000, guid: affaacb6a78a2af498ac3a3680cb2ca3, type: 2}
+  - {fileID: 11400000, guid: 8fd070edbca4a7d47a9aeac9a4fff6bf, type: 2}
+  - {fileID: 11400000, guid: 1581069936546a64490613c236b1dbcd, type: 2}

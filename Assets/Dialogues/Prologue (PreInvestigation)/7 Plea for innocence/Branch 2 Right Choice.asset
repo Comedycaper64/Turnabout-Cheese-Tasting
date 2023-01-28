@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6fd3ac372c8854a8c9d4b1296f9953, type: 3}
+  m_Name: Branch 2 Right Choice
+  m_EditorClassIdentifier: 
+  conversationNodes:
+  - {fileID: 11400000, guid: 44ced3a317414bd4cb139811e1aea1bb, type: 2}
+  - {fileID: 11400000, guid: b689f0f096e8b524098643b69ca6e6f9, type: 2}
+  - {fileID: 11400000, guid: 47fcf6ed2235b694b94f0e8c1a139b94, type: 2}
+  - {fileID: 11400000, guid: eb59712ad20fce34299ed74b6b6426b9, type: 2}
+  - {fileID: 11400000, guid: e195d582deeae0441bb561a524c4005c, type: 2}
+  - {fileID: 11400000, guid: e2dd4a7576b58ae4b88a8279e8048893, type: 2}

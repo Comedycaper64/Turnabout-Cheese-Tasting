@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6fd3ac372c8854a8c9d4b1296f9953, type: 3}
+  m_Name: Epilogue Convo 5
+  m_EditorClassIdentifier: 
+  conversationNodes:
+  - {fileID: 11400000, guid: 57a8c8ef98946434a8ce38586fc14a2f, type: 2}
+  - {fileID: 11400000, guid: 58b40c2abbfa89741902f329092f2bcb, type: 2}
+  - {fileID: 11400000, guid: bd26aafa0cbb04d40b298ac82c30fedc, type: 2}
+  - {fileID: 11400000, guid: b0cdf43d5aaeec14a868508e72d17efb, type: 2}
+  - {fileID: 11400000, guid: d0f850198eb8c9343aad4a2919500102, type: 2}
+  - {fileID: 11400000, guid: 1b6a0a7ab2cbc8c44b905d9f6188ed1d, type: 2}

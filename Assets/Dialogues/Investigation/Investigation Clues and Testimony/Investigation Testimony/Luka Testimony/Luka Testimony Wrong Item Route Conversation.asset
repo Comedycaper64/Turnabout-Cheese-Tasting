@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6fd3ac372c8854a8c9d4b1296f9953, type: 3}
+  m_Name: Luka Testimony Wrong Item Route Conversation
+  m_EditorClassIdentifier: 
+  conversationNodes:
+  - {fileID: 11400000, guid: 66c1a68515b4ca14384afa7645be6e1a, type: 2}
+  - {fileID: 11400000, guid: a8c915122b5f18f4a932b6bf8e8ac677, type: 2}
+  - {fileID: 11400000, guid: 3ddaad6e868c7714ab683be9c71970fb, type: 2}

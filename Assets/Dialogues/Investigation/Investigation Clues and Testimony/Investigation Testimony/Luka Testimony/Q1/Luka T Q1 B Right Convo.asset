@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6fd3ac372c8854a8c9d4b1296f9953, type: 3}
+  m_Name: Luka T Q1 B Right Convo
+  m_EditorClassIdentifier: 
+  conversationNodes:
+  - {fileID: 11400000, guid: 54e04aecc37937c4a9de9fb9d45208ec, type: 2}
+  - {fileID: 11400000, guid: 35dc032510203084292fc673075bdf43, type: 2}
+  - {fileID: 11400000, guid: 62eb90bde96085546b3e0ef8ad721c03, type: 2}
+  - {fileID: 11400000, guid: dd20668ff13fd78438863f1fcb312995, type: 2}
+  - {fileID: 11400000, guid: 43eacf3d936840641a44e53fd6825188, type: 2}
+  - {fileID: 11400000, guid: 3ddaad6e868c7714ab683be9c71970fb, type: 2}

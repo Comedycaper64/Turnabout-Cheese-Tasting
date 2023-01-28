@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44a64bceacac0ac4d8cd34f46f777598, type: 3}
+  m_Name: Tennes T Sounds 2
+  m_EditorClassIdentifier: 
+  characterName: Tennes
+  characterImages:
+  - {fileID: 21300000, guid: 7bc4dc4b92ab5554bbf5634182989b0b, type: 3}
+  characterTalkSound: {fileID: 8300000, guid: f7fe5bceaf095ec4eaf9643089119a3f, type: 3}
+  leftSideCharacterImage: 0
+  rightSideCharacterImage: 1
+  sentences:
+  - "\u201CHmm\u2026 I don\u2019t believe I can\u2026 I remember hearing the sound
+    of something falling to the floor, but that was it.\u201D"

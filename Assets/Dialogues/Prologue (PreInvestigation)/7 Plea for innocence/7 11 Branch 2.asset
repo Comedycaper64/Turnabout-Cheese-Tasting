@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75f31ae88fcbe3244b52b58ff0a52596, type: 3}
+  m_Name: 7 11 Branch 2
+  m_EditorClassIdentifier: 
+  dialogueRoutes:
+  - {fileID: 11400000, guid: 4567ac8b6fcd52f41be1a808f598bfe0, type: 2}
+  - {fileID: 11400000, guid: c3089defc7c0c0146a811118a0f007d9, type: 2}
+  - {fileID: 11400000, guid: 1a725b45a9ae1814bbdd733caaa7a807, type: 2}
+  inInvestigation: 0
+  wrongHeldItemRoute: {fileID: 0}

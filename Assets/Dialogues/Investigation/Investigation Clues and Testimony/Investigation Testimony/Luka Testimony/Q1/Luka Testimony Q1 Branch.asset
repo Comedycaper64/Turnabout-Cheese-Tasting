@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75f31ae88fcbe3244b52b58ff0a52596, type: 3}
+  m_Name: Luka Testimony Q1 Branch
+  m_EditorClassIdentifier: 
+  dialogueRoutes:
+  - {fileID: 11400000, guid: 64e8319710744d84b96fb4049b3e630a, type: 2}
+  - {fileID: 11400000, guid: eab802b5920cf3d41a1426bb8ab18afb, type: 2}
+  - {fileID: 11400000, guid: ab6f886f398a50545a490084bd4e78d6, type: 2}
+  inInvestigation: 0
+  exitConvoButton: 0
+  wrongHeldItemRoute: {fileID: 0}

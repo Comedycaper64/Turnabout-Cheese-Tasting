@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6fd3ac372c8854a8c9d4b1296f9953, type: 3}
+  m_Name: Tennes T Q1 Convo
+  m_EditorClassIdentifier: 
+  conversationNodes:
+  - {fileID: 11400000, guid: 8a6e4aebb45c7aa42b5af3de1ae2087f, type: 2}
+  - {fileID: 11400000, guid: fd691f7424720ec47a9fa4f96ccaa00e, type: 2}
+  - {fileID: 11400000, guid: 7d2b12c67c76eb64f8849b28332aeb3f, type: 2}
+  - {fileID: 11400000, guid: 65829f0b9bb96314ebc093a2a3293b6f, type: 2}
+  - {fileID: 11400000, guid: 18d234aa3056e48438747f547c555916, type: 2}

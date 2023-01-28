@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6fd3ac372c8854a8c9d4b1296f9953, type: 3}
+  m_Name: Suthac T Sounds Convo
+  m_EditorClassIdentifier: 
+  conversationNodes:
+  - {fileID: 11400000, guid: 46dd186ea343ac742a892b7e4a818728, type: 2}
+  - {fileID: 11400000, guid: 51ab41979bd748546b15463eff972e90, type: 2}
+  - {fileID: 11400000, guid: c55a268f15543884696d5fb1a345ba3c, type: 2}
+  - {fileID: 11400000, guid: 5ec5c1726a11f5f42b2f9046a5bdc135, type: 2}
+  - {fileID: 11400000, guid: b9bdccae96fa19f46b31c2c48620bf7a, type: 2}
+  - {fileID: 11400000, guid: d66c31ce199949a419f8e349366c7605, type: 2}
+  - {fileID: 11400000, guid: 2900411eb03fe3d42941895bbf426ed0, type: 2}
+  - {fileID: 11400000, guid: b9298f04f0aa34e4b865c66df74dcf79, type: 2}
+  - {fileID: 11400000, guid: 29d302e0d98988b4bb7ea98f9b24dcab, type: 2}

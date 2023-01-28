@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6fd3ac372c8854a8c9d4b1296f9953, type: 3}
+  m_Name: Suthac T Q3 Convo
+  m_EditorClassIdentifier: 
+  conversationNodes:
+  - {fileID: 11400000, guid: 6600136b33a18904b86c061f24ef9b58, type: 2}
+  - {fileID: 11400000, guid: f7e1d812f9aa6d742b0668eb8ce976cf, type: 2}
+  - {fileID: 11400000, guid: b8821b75069297346a9155bed537ef2d, type: 2}
+  - {fileID: 11400000, guid: 514e52795933b99469cdc8a13264dedb, type: 2}
+  - {fileID: 11400000, guid: 13d09f8f14f60e849ab813590d90d8f3, type: 2}
+  - {fileID: 11400000, guid: b0203e68ca8fdd14495b4df7826de2bd, type: 2}
+  - {fileID: 11400000, guid: b789eb87dc1e9144890044d1c2eba71c, type: 2}
+  - {fileID: 11400000, guid: 29d302e0d98988b4bb7ea98f9b24dcab, type: 2}

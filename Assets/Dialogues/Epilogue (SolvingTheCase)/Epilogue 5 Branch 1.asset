@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75f31ae88fcbe3244b52b58ff0a52596, type: 3}
+  m_Name: Epilogue 5 Branch 1
+  m_EditorClassIdentifier: 
+  dialogueRoutes:
+  - {fileID: 11400000, guid: 4fb10e0a3baddda46b00c628b57dc6d6, type: 2}
+  inInvestigation: 1
+  exitConvoButton: 0
+  wrongHeldItemRoute: {fileID: 11400000, guid: 0b71456244d8e324b8bb3dfcc56a373e, type: 2}

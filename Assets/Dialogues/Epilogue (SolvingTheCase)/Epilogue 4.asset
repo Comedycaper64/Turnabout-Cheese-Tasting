@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44a64bceacac0ac4d8cd34f46f777598, type: 3}
+  m_Name: Epilogue 4
+  m_EditorClassIdentifier: 
+  characterName: Lloyd
+  characterImages:
+  - {fileID: 21300000, guid: f846d340cc4236d428169c85eca4e3b4, type: 3}
+  characterTalkSound: {fileID: 8300000, guid: edacfe762564f6d478af9c811042b27a, type: 3}
+  leftSideCharacterImage: 1
+  rightSideCharacterImage: 0
+  sentences:
+  - "\u201CSo! I do believe the facts of this evening have come to light.\u201D"
+  - "\u201CI shall now explain what happened, and who caused this terrible tragedy!\u201D"
+  - "\u201CThe murder happened in the dining room, where Niberboog ate a hunk of
+    poisoned cheese and subsequently perished\u2026\u201D"
+  - "\u201CThis cheese was placed in its location during the blackout.\u201D"
+  - "\u201CYou might be asking, why was there a blackout? Did it occur by accident?\u201D"
+  - "\u201CI do not think so. This evidence implies it was caused by someone\u2026\u201D"

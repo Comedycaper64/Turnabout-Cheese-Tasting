@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6fd3ac372c8854a8c9d4b1296f9953, type: 3}
+  m_Name: Luke Testimony Q3 Conversation
+  m_EditorClassIdentifier: 
+  conversationNodes:
+  - {fileID: 11400000, guid: f99477a72d2380641bd6b95ed466d28e, type: 2}
+  - {fileID: 11400000, guid: efca5f6e342cd4147ba1ddb7c28502bd, type: 2}
+  - {fileID: 11400000, guid: 0b788eb8b444aa743a037c84b5840749, type: 2}
+  - {fileID: 11400000, guid: 3ddaad6e868c7714ab683be9c71970fb, type: 2}
